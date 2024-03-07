@@ -217,7 +217,7 @@ export const education = [
     date: "Sep 2022 - Present",
     grade: "3.50 GPA",
     desc: "I am currently Master's degree in Computer Science and Engineering at University of Westminster, London. I have completed 4 semesters and have a GPA of 3.50. I have taken courses in Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and among others. I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Master's in Computer Science and Engineering",
+    degree: "Master's in Information Technology",
   },
   {
     id: 1,
