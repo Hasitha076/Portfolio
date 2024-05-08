@@ -1,6 +1,7 @@
 import Dashboard from '../../src/images/dashboard.jpg'
 import ExpenseTracker from '../../src/images/tracker.png'
 import Predictor from '../../src/images/ML-app.jpeg'
+import Order from '../../src/images/order-system.PNG'
 
 export const Bio = {
   name: "Hasitha Madushan",
@@ -281,5 +282,24 @@ export const projects = [
     category: "machine learning",
     github: "",
     webapp: "",
+  },
+  {
+    id: 3,
+    title: "Order Management System",
+    date: "April 2024 - May 2024",
+    description:
+      "Build a MERN-stack Order Management System Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling.",
+    image: Order,
+    tags: [
+      "Material Ui",
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Redux",
+    ],
+    category: "web app",
+    github: "https://github.com/Hasitha076/Ordering-System",
+    webapp: "https://ordering-system-1.onrender.com/",
   },
 ];
